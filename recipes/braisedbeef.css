@@ -1,0 +1,46 @@
+body {
+    display: grid;
+    max-width: 50%;
+    padding: 0px 0px 0px 360px;
+    font-family: Tahoma, sans-serif ;
+    background-color: azure;
+}
+#intro {
+    text-align: center;
+}
+#main-img {
+    max-width: 500px;
+    max-height: auto;
+}
+
+#description {
+    text-align: left;
+}
+#ingredients {
+    
+}
+ol>li {
+    list-style-type: none;
+}
+
+#step-text {
+    margin-top: -30px;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+#step-title {
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+#step-img {
+    max-width: 500px;
+    max-height: auto;
+    margin-bottom: 30px;
+}
+#section-title {
+    text-align: left;
+}
+img {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+}
