@@ -1,0 +1,22 @@
+body {
+    display: grid;
+    max-width: 50%;
+    padding: 0px 0px 0px 360px;
+    font-family: Tahoma, sans-serif ;
+    background-color: azure;
+}
+#after-title {
+    padding: 0px 0px 0px 100px;
+}
+#img {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+    width: 500px;
+    height: auto;
+}
+#recipes {
+    text-decoration: none;
+    color: black;
+}
+h1 {
+    text-align: center;
+}
