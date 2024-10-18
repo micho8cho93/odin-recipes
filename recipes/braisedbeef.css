@@ -91,3 +91,7 @@ img {
     box-shadow: none;
     transform: translateY(0);
 }
+#button-text {
+    text-decoration: none;
+    color: azure;
+}
