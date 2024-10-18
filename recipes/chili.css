@@ -74,7 +74,7 @@ img {
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    width: 20%;
+    width: 12%;
     will-change: transform;
 }
 
